@@ -10,11 +10,7 @@
 
 ###
 
-<img align="right" height="225" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
-<h5 align="left">👨‍🎓 I am pursuing a b.tech in Information Technology.<br>🔰 I am a MERN stack developer.<br>👨‍💻 I love solving Data Structures and Algorithm problems. <br>🎴 I am working on developing my web development skills.<br>🤝I am looking to collab on back-end projects, Machine Learning, and AI projects <br>📮 Got anything for me drop me a mail here</h5>
+<p align="left">👨‍🎓 I am pursuing a b.tech in Information Technology.<br>🔰 I am a MERN stack developer.<br>👨‍💻 I love solving Data Structures and Algorithm problems. <br>🎴 I am working on developing my web development skills.<br>🤝I am looking to collab on back-end projects, Machine Learning, and AI projects <br>📮 Got anything for me drop me a mail here</p>
 
 ###
 
