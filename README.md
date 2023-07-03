@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">👨‍🎓 I am pursuing a b.tech in Information Technology.<br>🔰 I am a MERN stack developer.<br>👨‍💻 I love solving Data Structures and Algorithm problems. <br>🎴 I am working on developing my web development skills.<br>🤝I am looking to collab on back-end projects, Machine Learning, and AI projects <br>📮 Got anything for me drop me a mail here</p>
+<img align="right" height="225" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
+###
+
+<h5 align="left">👨‍🎓 I am pursuing a b.tech in Information Technology.<br>🔰 I am a MERN stack developer.<br>👨‍💻 I love solving Data Structures and Algorithm problems. <br>🎴 I am working on developing my web development skills.<br>🤝I am looking to collab on back-end projects, Machine Learning, and AI projects <br>📮 Got anything for me drop me a mail here</h5>
 
 ###
 
@@ -74,9 +78,7 @@
   <a href="https://twitter.com/ShreyashNalawa8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=shreyashnalawade11@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
